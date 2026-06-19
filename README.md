@@ -1,58 +1,149 @@
-🍽️ Swiggy Sales Analysis Dashboard (Excel)
-Project Overview
+# 🍽️ Swiggy Sales Analysis Dashboard
+<img width="1187" height="691" alt="Swiggy-Sales-Analysis-Dashboard" src="https://github.com/user-attachments/assets/2821408f-34c5-45d6-a086-99cf382503c9" />
 
-Developed an interactive Excel dashboard to analyze Swiggy sales performance across different states, cities, food categories, and time periods.
+## 📌 Project Overview
 
-The dashboard helps identify sales trends, customer preferences, restaurant performance, and regional revenue distribution through dynamic visualizations and KPI tracking.
+This project presents an interactive Sales Analysis Dashboard developed in Microsoft Excel to analyze Swiggy's food delivery performance across multiple dimensions including sales, orders, customer ratings, food categories, cities, and states.
 
-Dashboard Preview
+The dashboard transforms raw sales data into actionable business insights, enabling stakeholders to monitor key performance indicators (KPIs), identify sales trends, evaluate customer behavior, and make data-driven decisions.
 
-<img width="1187" height="691" alt="Swiggy-Sales-Analysis-Dashboard" src="https://github.com/user-attachments/assets/471e4480-ca05-411f-b42f-04b499e208f4" />
+---
 
+## 🎯 Business Objective
 
-Key Metrics
-Total Sales: ₹53.01M
-Average Rating: 4.34
-Total Orders: 197.43K
-Rating Count: 5.59M
-Average Order Value: ₹268.51
-Features
-Sales Analysis
-Monthly Sales Trend
-Daily Sales Trend
-Weekly Sales Trend
-Geographic Analysis
-State-wise Sales Distribution
-Top Performing Cities
-Customer Insights
-Average Rating Analysis
-Rating Count Tracking
-Product Analysis
-Veg vs Non-Veg Sales Comparison
-Category-wise Sales Performance
-Interactive Filters
-Month Slicer
-Food Category Slicer
-Restaurant Slicer
-Tools Used
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Power Query
-Slicers
-Conditional Formatting
-Dashboard Design
-Business Insights
-Bengaluru generated the highest sales revenue.
-Non-Veg food contributed approximately 64% of total sales.
-Average customer rating remained consistently high at 4.34.
-Q2 recorded the highest sales among all quarters.
-Weekend sales outperformed weekday sales.
-Skills Demonstrated
-Data Cleaning
-Data Analysis
-Data Visualization
-Dashboard Development
-KPI Reporting
-Business Intelligence
-Excel Analytics
+The objective of this project is to:
+
+* Analyze sales performance across different regions and time periods.
+* Identify top-performing cities and states.
+* Compare sales contribution between Veg and Non-Veg categories.
+* Track customer satisfaction through ratings analysis.
+* Monitor business KPIs through an interactive dashboard.
+
+---
+
+## 📊 Key Performance Indicators (KPIs)
+
+| KPI                 | Value   |
+| ------------------- | ------- |
+| Total Sales         | ₹53.01M |
+| Total Orders        | 197.43K |
+| Average Rating      | 4.34    |
+| Rating Count        | 5.59M   |
+| Average Order Value | ₹268.51 |
+
+---
+
+## 📈 Dashboard Features
+
+### Sales Analysis
+
+* Monthly Sales Trend Analysis
+* Daily Sales Trend Analysis
+* Weekly Sales Trend Analysis
+* Quarter-wise Sales Performance
+
+### Customer Analysis
+
+* Average Rating Monitoring
+* Total Rating Count Analysis
+
+### Product Analysis
+
+* Veg vs Non-Veg Sales Contribution
+* Category-wise Performance Tracking
+
+### Geographic Analysis
+
+* State-wise Sales Distribution
+* Top 5 Cities by Sales Revenue
+
+### Interactive Dashboard Components
+
+* Month Slicer
+* Food Category Filter
+* Restaurant Filter
+* Dynamic KPI Cards
+
+---
+
+## 🔍 Key Insights
+
+### 1. Non-Veg Category Dominates Revenue
+
+* Non-Veg food contributed approximately 64% of total sales.
+* Veg food accounted for 36% of overall revenue.
+
+### 2. Bengaluru Generated Highest Revenue
+
+* Bengaluru emerged as the top-performing city with sales exceeding ₹5.4M.
+
+### 3. Strong Customer Satisfaction
+
+* The average customer rating remained consistently high at 4.34, indicating positive customer experience.
+
+### 4. Q2 Recorded Peak Performance
+
+* Quarter 2 achieved the highest sales and order volume among all quarters.
+
+### 5. Weekend Demand Was Higher
+
+* Sales peaked during weekends, highlighting increased customer ordering behavior on Saturdays and Sundays.
+
+---
+
+## 🛠️ Tools & Technologies
+
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Slicers
+* Conditional Formatting
+* Dashboard Design
+* Data Cleaning
+* Data Validation
+* Business Analytics
+
+---
+
+## 📚 Skills Demonstrated
+
+### Data Analysis
+
+* Data Cleaning
+* Data Transformation
+* KPI Analysis
+* Trend Analysis
+
+### Data Visualization
+
+* Dashboard Development
+* Interactive Reporting
+* Business Storytelling
+
+### Business Intelligence
+
+* Sales Performance Analysis
+* Customer Behavior Analysis
+* Geographic Analysis
+* Category Performance Analysis
+
+---
+
+## 📸 Dashboard Preview
+
+<img width="100%" alt="Swiggy Dashboard" src="Dashboard_Screenshot.png">
+
+---
+
+## 🚀 Project Outcome
+
+This dashboard enables business users to quickly identify sales trends, monitor operational performance, evaluate customer satisfaction, and uncover growth opportunities through interactive and data-driven reporting.
+
+---
+
+## 👨‍💻 Author
+
+Shiva Kumar Kundaram
+
+* LinkedIn: [Add Your LinkedIn URL]
+* GitHub: [Add Your GitHub URL]
