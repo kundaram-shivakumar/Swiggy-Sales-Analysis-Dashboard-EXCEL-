@@ -131,7 +131,8 @@ The objective of this project is to:
 
 ## 📸 Dashboard Preview
 
-<img width="100%" alt="Swiggy Dashboard" src="Dashboard_Screenshot.png">
+<img width="1187" height="691" alt="image" src="https://github.com/user-attachments/assets/aaeb9707-dc7a-4a41-bc65-4f11feeb8f49" />
+
 
 ---
 
