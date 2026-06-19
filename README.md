@@ -145,5 +145,5 @@ This dashboard enables business users to quickly identify sales trends, monitor 
 
 Shiva Kumar Kundaram
 
-* LinkedIn: [Add Your LinkedIn URL]
-* GitHub: [Add Your GitHub URL]
+* LinkedIn: https://www.linkedin.com/in/kundaram-shiva-kumar-ksk/
+* GitHub: https://github.com/kundaram-shivakumar
